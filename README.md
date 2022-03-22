@@ -7,7 +7,7 @@
 
 :man_technologist: My Codewars progress: <p>[![codewars](https://www.codewars.com/users/jm_spb/badges/large)](https://www.codewars.com/users/jm_spb)</p>
 
-📫 How to reach me: <p>[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/jean_michel_spb)&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuchel.ivan@gmail.com)&nbsp; [![Yandex](https://img.shields.io/badge/TI4565@ya.ru-F9DB60?style=for-the-badge&logo=Yandex&logoColor=FF3333)](mailto:ti4565@ya.ru)&nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/@jm_spb)&nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jeanmichel_spb)</p>
+📫 How to reach me: <p>[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/jean_michel_spb)&nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuchel.ivan@gmail.com)&nbsp; [![Yandex](https://img.shields.io/badge/TI4565@ya.ru-F9DB60?style=for-the-badge&logo=Yandex&logoColor=FF3333)](mailto:ti4565@ya.ru)&nbsp; [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/@jm_spb)&nbsp;</p>
 
 <hr />
 
